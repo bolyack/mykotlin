@@ -1,0 +1,13 @@
+
+
+Kotlin-in-Chinese · GitBook
+   https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details
+
+
+Kotlin 中文文档
+   http://www.kotlindoc.cn/GettingStarted/Basic-Syntax.html
+
+
+
+kotlin官方文档-1.0入门-简书
+   http://www.jianshu.com/p/b70011dfba7d
